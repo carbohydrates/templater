@@ -2,7 +2,7 @@ name: init
 on:
   create:
     branches:
-      - master
+      - master1
 jobs:
   init:
     runs-on: ubuntu-latest
